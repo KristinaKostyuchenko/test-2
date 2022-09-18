@@ -1,0 +1,8 @@
+fun main() {
+    val symbolList = mutableListOf<String>()
+  
+    for (i in 0..5) {
+          symbolList.add("@")
+          }
+          println(symbolList)
+}
